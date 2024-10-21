@@ -112,4 +112,4 @@ def getIndex(col):
         )
         result[term] = doc_count
 
-    return
+    return result
